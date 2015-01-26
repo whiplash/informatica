@@ -11,3 +11,12 @@
 * [Università degli Studi di Catania - unict](http://www.unict.it/)
     * [Corso di Laurea Trennale in Informatica - L31](http://web.dmi.unict.it/Didattica/Laurea%20Triennale%20in%20Informatica%20L-31)
     * [Corso di Laurea Magistrale in Informatica LM18](http://web.dmi.unict.it/Didattica/Laurea%20Magistrale%20in%20Informatica%20LM-18)
+
+* [Università degli Studi di Napoli Federico II - unina](http://www.unina.it/)
+    * ...
+
+* [Università degli Studi di Milano - unimi](http://www.unimi.it/)
+    * ...
+
+* [Università degli Studi di Torino - unito](http://www.unito.it/)
+    * ...
