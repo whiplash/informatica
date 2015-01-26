@@ -3,6 +3,8 @@
     * [Corso di Laurea Trennale in Informatica - L31](http://www.disim.univaq.it/didattica/content.php?laurea=1&pid=549&did=0)
         * Introduzione alla Programmazione: Fondamenti e Linguaggi
             * Marco Autili - Java
+        * Algoritmi e Strutture Dati con Laboratorio
+            * Giovanna Melideo - Java
     * [Corso di Laurea Magistrale in Informatica LM18](http://www.univaq.it/section.php?id=1670&idcorso=522)
 
 
