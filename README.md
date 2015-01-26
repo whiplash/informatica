@@ -39,7 +39,7 @@
 		* Programmazione Funzionale
 			* Fiorentini C.; A.Momigliano — Programmazione F#
 		* Sicurezza e Privatezza
-			* D.Bruschi; A.Lanzi — Articolata trattazione di vulnerabilità
+			* D.Bruschi; A.Lanzi — Vulnerabilità e Sicurezza Informatica
 		* Fondamenti di Ricerca Operativa 
 			* M.Trubian; Programmazione Lineare; Ottimizzazione su Grafo
 		* Crittografia 
