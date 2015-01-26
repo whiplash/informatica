@@ -1,6 +1,8 @@
 
 * [Università degli Studi dell'Aquila - univaq](http://www.univaq.it/)
     * [Corso di Laurea Trennale in Informatica - L31](http://www.disim.univaq.it/didattica/content.php?laurea=1&pid=549&did=0)
+        * Fondamenti di Informatica
+            * A-L - [Prof Gigi](http://www.dmi.unict.it) - Java
     * [Corso di Laurea Magistrale in Informatica LM18](http://www.univaq.it/section.php?id=1670&idcorso=522)
 
 
