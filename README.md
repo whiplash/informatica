@@ -20,15 +20,11 @@
         			
 		* Programmazione
 			* G.Pighizzini; A.C.G.Morpurgo; A.Trentini; L.Capra — Programmazione OOP Java
-		
 		* Algoritmi e Strutture Dati
 			* M. Goldwurm; V. Lonati — Programmazione C
-    	
 		* Logica Matematica
-			* M. Ornaghi; C. Fiorentini; S. Aguzzoli — Logica del Prim'ordine; ProLog	
-		* Basi di Dati
+			* M. Ornaghi; C. Fiorentini; S. Aguzzoli — Logica del Prim'ordine; ProLog		* Basi di Dati
   			* S.Castano; A.Ferrara; S.Montanelli --- PostgreSQL, Programmazione Web
-        	
 		* Linguaggi di Programmazione
 			* W.Cazzola — Programmazione OCaML, Erlang, Scala
    
@@ -36,23 +32,16 @@
 
 		* Algoritmica per il web
 			* P.Boldi, S.Vigna — Crawling; Ottimizzazione su Grafo del Web, Tecniche di Compressione Dati
-
 		* Programmazione avanzata
 			* W.Cazzola — Programmazione Python
-             
 		* Tecniche speciali di programmazione
 			* W.Cazzola — Java Reflection, Design Pattern, Aspect-Oriented Programming
-	
 		* Programmazione Funzionale
 			* Fiorentini C.; A.Momigliano — Programmazione F#
-              
-             
 		* Sicurezza e Privatezza
 			* D.Bruschi; A.Lanzi — Articolata trattazione di vulnerabilità
-             
 		* Fondamenti di Ricerca Operativa 
 			* M.Trubian; Programmazione Lineare; Ottimizzazione su Grafo
-           
 		* Crittografia 
 			* A. Visconti — Algoritmi Crittografici Simmetrici/Asimmetrici, Funzioni Hash, Protocolli Crittografici 
 
