@@ -16,7 +16,7 @@
     * ...
 
 * [Università degli Studi di Milano - unimi](http://www.unimi.it/)
-    * [Corso di Laurea Triennale in Informatica- F1Xof2](http://www.ccdinf.unimi.it/it/corsiDiStudio/2015/F1Xof2/index.html)
+    * [Corso di Laurea Triennale in Informatica - L31](http://www.ccdinf.unimi.it/it/corsiDiStudio/2015/F1Xof2/index.html)
     	* Architettura degli Elaboratori I
     		* N.A.Borghese, N.Basilico
         * F.Pedersini ---  Programmazione MIPS
@@ -46,7 +46,7 @@
   		* E.Damiani; C.A.Ardagna
     * Linguaggi	di	Programmazione	(propedeutico	a	Prog	Avanzata)
       * W.Cazzola --- Programmazione OCaML, Erlang, Scala
-* [Corso di Laurea Magistrale in Informatica- F1Xof2](http://www.ccdinf.unimi.it/it/corsiDiStudio/2015/F1Xof2/index.html)
+* [Corso di Laurea Magistrale in Informatica - LM18](http://www.ccdinf.unimi.it/it/corsiDiStudio/2015/F1Xof2/index.html)
 Insegnamenti	fondamentali	di	percorso	(Obbligatori)
     * Sviluppo	software	in	gruppi	di	lavoro	complessi
     * Programmazione	avanzata
