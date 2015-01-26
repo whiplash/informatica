@@ -28,7 +28,7 @@
 		* Linguaggi di Programmazione
 			* W.Cazzola — Programmazione OCaML, Erlang, Scala
    
-      * [Corso di Laurea Magistrale in Informatica - LM18](http://www.ccdinf.unimi.it/it/corsiDiStudio/2015/F1Xof2/index.html)
+    * [Corso di Laurea Magistrale in Informatica - LM18](http://www.ccdinf.unimi.it/it/corsiDiStudio/2015/F1Xof2/index.html)
 
 		* Algoritmica per il web
 			* P.Boldi, S.Vigna — Crawling; Ottimizzazione su Grafo del Web, Tecniche di Compressione Dati
