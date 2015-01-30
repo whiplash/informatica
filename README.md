@@ -67,7 +67,56 @@
 [www.uniud.it](http://www.uniud.it/)
 
 * [Corso di Laurea Trennale in Informatica - L31](http://next.uniud.it/it/didattica/corsi/offerta-formativa-area-scientifica/scienze-matematiche-informatiche-multimediali/triennali/informatica)
+
+  * Architettura degli elaboratori e laboratorio
+  * Programmazione e Laboratorio	
+  * Algoritmi e strutture dati e laboratorio
+  * Fondamenti dell’informatica	
+  * Programmazione orientata agli oggetti	
+  * Sistemi operativi e laboratorio	
+  * Basi di dati	
+  * Ingegneria del software	
+  * Interazione uomo-macchina	
+  * Linguaggi di programmazione	
+  * Reti di calcolatori	
+ 
 * [Corso di Laurea Triennale in Tecnologie Web e Multimediali - L31](http://next.uniud.it/it/didattica/corsi/offerta-formativa-area-scientifica/scienze-matematiche-informatiche-multimediali/triennali/tecnologie-web-e-multimediali)
+
+  * Architettura degli elaboratori	
+  * Programmazione e laboratorio	
+  * Tecnologie web e laboratorio	
+  * Algoritmi e strutture dati e laboratorio	
+  * Complementi di tecnologie web	
+  * Programmazione orientata agli oggetti	
+  * Sistemi multimediali e laboratorio	
+  * Sistemi operativi	
+  * Basi di dati	
+  * Ingegneria del software	
+  * Interazione uomo-macchina	
+  * Reti di calcolatori	
+  * Progetto di siti e portali web	
+  * Immagini e multimedialità	
+
 * [Corso di Laurea Triennale in Scienze e Tecnologie Multimediali - L20,L31](http://next.uniud.it/it/didattica/corsi/offerta-formativa-area-scientifica/scienze-matematiche-informatiche-multimediali/triennali/scienze-e-tecnologie-multimediali)
+
+  * Informatica multimediale 
+  * Laboratorio di dati e sistemi multimediali
+  * Reti e tecniche per la comunicazione multimediale
+  * Tecnologie multimediali e laboratorio 
+  * Laboratorio di tecnologie audio-video interattive
+  * Laboratorio di realtà aumentata e segnali multimediali 
+  * Creative computing 
 * [Corso di Laurea Magistrale in Informatica - LM18](http://next.uniud.it/it/didattica/corsi/offerta-formativa-area-scientifica/scienze-matematiche-informatiche-multimediali/magistrali/informatica)
+  * Intelligenza artificiale
+  * Linguaggi e compilatori 
+  * Metodi formali e logica per l’informatica 
+  * Due piani di studi Linguaggi e algoritmi e Progetto e sviluppo di sistemi software
+
 * [Corsi di Laurea Magistrale in Comunicazione Multimediale e Tecnologie dell'Informazione - LM18, LM19](http://next.uniud.it/it/didattica/corsi/offerta-formativa-area-scientifica/scienze-matematiche-informatiche-multimediali/magistrali/comunicazione-multimediale-e-tecnologie-dellinformazione)
+   * Laboratorio di Social Robotics
+   * Machine learning 
+   * Sicurezza per le applicazioni multimediali 
+   * Teoria dei grafi e dei giochi 
+   * Web design e user experience 
+   * Insegnamento a scelta
+
