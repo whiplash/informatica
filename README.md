@@ -61,3 +61,13 @@
 [www.unito.it](http://www.unito.it/)
 
 * ...
+
+
+## Università degli Studi di Udine
+[www.uniud.it](http://www.uniud.it/)
+
+* [Corso di Laurea Trennale in Informatica - L31](http://next.uniud.it/it/didattica/corsi/offerta-formativa-area-scientifica/scienze-matematiche-informatiche-multimediali/triennali/informatica)
+* [Corso di Laurea Triennale in Tecnologie Web e Multimediali - L31](http://next.uniud.it/it/didattica/corsi/offerta-formativa-area-scientifica/scienze-matematiche-informatiche-multimediali/triennali/tecnologie-web-e-multimediali)
+* [Corso di Laurea Triennale in Scienze e Tecnologie Multimediali - L20,L31](http://next.uniud.it/it/didattica/corsi/offerta-formativa-area-scientifica/scienze-matematiche-informatiche-multimediali/triennali/scienze-e-tecnologie-multimediali)
+* [Corso di Laurea Magistrale in Informatica - LM18](http://next.uniud.it/it/didattica/corsi/offerta-formativa-area-scientifica/scienze-matematiche-informatiche-multimediali/magistrali/informatica)
+* [Corsi di Laurea Magistrale in Comunicazione Multimediale e Tecnologie dell'Informazione - LM18, LM19](http://next.uniud.it/it/didattica/corsi/offerta-formativa-area-scientifica/scienze-matematiche-informatiche-multimediali/magistrali/comunicazione-multimediale-e-tecnologie-dellinformazione)
