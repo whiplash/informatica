@@ -13,7 +13,28 @@
 [www.unict.it](http://www.unict.it/)
 
 * [Corso di Laurea Trennale in Informatica - L31](http://web.dmi.unict.it/Didattica/Laurea%20Triennale%20in%20Informatica%20L-31)
+
+	* Programmazione I
+		* Mario Francesco Pavone , Gianluca Cincotti - linguaggio di programmazione C++
+	* Programmazione II
+		* Simone Faro - linguaggio di programmazione C++
+	* Basi di Dati
+		* Alfredo Pulvirenti - MySQL in connessione al linguaggio host Php e JavaScript
+	* Interazione e Multimedia
+		* Filippo Stanco - linguaggio di programmazione "Processing"
+	* Laboratorio Avanzato di Programmazione 1
+		* Corrado Santoro - linguaggio di programmazione C / C++
+	* Laboratorio Avanzato di Programmazione 2
+		* Giuseppe Morelli - linguaggio di programmazione C / C++
+	* Tecniche di Programmazione Concorrente e Distribuita
+		* Giuseppe Pappalardo - linguaggio di programmazione JAVA e C
+
 * [Corso di Laurea Magistrale in Informatica LM18](http://web.dmi.unict.it/Didattica/Laurea%20Magistrale%20in%20Informatica%20LM-18)
+	
+	* Linguaggi di Programmazione
+		* Franco Barbanera - Functional Programming: Haskell, Scheme, Ocaml, Pict, Prolog, Erlang e Lucid-Synchrone
+	* P2P and Wireless Networks
+		* Salvatore Riccobene - NS2: linguaggio TCL/OTCL e interfacciamento con C++
 
 
 ## Università degli Studi di Napoli Federico II
