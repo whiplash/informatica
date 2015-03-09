@@ -1,3 +1,8 @@
+## Libera Università di Bolzano - Freie Universtaet Bozen
+[www.unibz.it](http://www.unibz.it)
+* [Bachelor in Computer Science and Engineering L8 - L31](http://www.unibz.it/en/inf/welcome/default.html)
+
+
 ## Università degli Studi dell'Aquila
 [www.univaq.it](http://www.univaq.it/)
 
