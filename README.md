@@ -1,3 +1,18 @@
+## Libera Università di Bolzano - Freie Universtaet Bozen
+[www.unibz.it](http://www.unibz.it)
+* [Bachelor in Computer Science and Engineering L8 - L31](http://www.unibz.it/en/inf/welcome/default.html)
+  * Advanced Programming
+  * Introduction to Programming
+  * Architecture of Digital Systems
+  * Data Structures and Algorithms
+  * Database Systems
+  * Operating Systems
+  * Distributed Systems
+  * Programming Paradigms
+  * Software Engineering
+  * Formal Languages and Compilers
+
+
 ## Università degli Studi dell'Aquila
 [www.univaq.it](http://www.univaq.it/)
 
