@@ -160,7 +160,7 @@
 # Politecnico di Milano
 [www.polimi.it](www.polimi.it)
 
-* [Corso di Laurea di Primo Livello in Ingegneria Informatica]
+* [Corso di Laurea di Primo Livello in Ingegneria Informatica](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do)
   * Fondamenti di Informatica
   * Fondamenti di Internet e Reti
   * Basi di Dati 1
@@ -171,7 +171,7 @@
   * Hypermedia Applications (Web and Multimedia)
   * Piattaforme Software per la Rete
   
-* [Corso di Laurea Magistrale in Ingegneria Informatica]
+* [Corso di Laurea Magistrale in Ingegneria Informatica](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do)
   * Formal languages and compilers
   * Data Bases 2
   * Software Engineering 2
