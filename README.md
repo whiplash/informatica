@@ -155,4 +155,45 @@
    * Teoria dei grafi e dei giochi 
    * Web design e user experience 
    * Insegnamento a scelta
+    
+   
+# Politecnico di Milano
+[www.polimi.it](www.polimi.it)
 
+* [Corso di Laurea di Primo Livello in Ingegneria Informatica](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do)
+  * Fondamenti di Informatica
+  * Fondamenti di Internet e Reti
+  * Basi di Dati 1
+  * Architettura dei Calcolatori e dei Sistemi Operativi
+  * Reti di Comunicazione e Internet
+  * Algoritmi e Principi dell'Informatica
+  * Ingegneria del Software
+  * Hypermedia Applications (Web and Multimedia)
+  * Piattaforme Software per la Rete
+  
+* [Corso di Laurea Magistrale in Ingegneria Informatica](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do)
+  * Formal languages and compilers
+  * Data Bases 2
+  * Software Engineering 2
+  * Advanced Computer Architecture
+  * Computer Security
+  * Computing Infrastructures
+  * Advanced Topics in Computer Security
+  * Principles of Programming Languages
+  * Machine Learning
+  * Distributed Systems
+  * Artificial Intelligence
+  * Soft Computing
+  * Embedded Systems
+  * Advanced Operating Systems
+  * Technologies for Information Systems
+  * High Performance Processors and Systems
+  * Videogame Design and Programming
+  * Data Management for the Web
+  * Bioinformatics and Computational Biology
+  * Autonomous Agents and Multiagents systems
+  * Recommender Systems
+  * Computer Graphics
+  * Image Analysis
+  * Criptography and Architectures for Computer Security
+  * Advanced Algorithms and Parallel Programming
